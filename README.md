@@ -1,4 +1,4 @@
 # NumericalMethods
 
-A numerical libreary written in python
+A numerical library written in python
 
